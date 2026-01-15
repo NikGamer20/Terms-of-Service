@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="tiktok-developers-site-verification" content="FrYb4U54PhgjY4eWY34UiaI2LhqbWtn8" />
+    <meta name="tiktok-developers-site-verification" content="nC6NJOTlEMOKYVTPuml5TDHYl2dYxVGj" />
     <title>Terms of Service - Dota 2 Content Tool</title>
     <style>
         body {
