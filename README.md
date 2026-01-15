@@ -1,4 +1,5 @@
-<!DOCTYPE html FrYb4U54PhgjY4eWY34UiaI2LhqbWtn8 >
+<!DOCTYPE html FrYb4U54PhgjY4eWY34UiaI2LhqbWtn8
+tiktok-developers-site-verification=FrYb4U54PhgjY4eWY34UiaI2LhqbWtn8 >
 <html lang="en">
 <head>
     <meta charset="UTF-8">
